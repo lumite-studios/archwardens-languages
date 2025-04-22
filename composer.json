@@ -1,10 +1,13 @@
 {
     "name": "archwardens/languages",
-    "version": "1.0.0",
+    "version": "dev-main",
     "authors": [
         {
             "name": "crotanite",
             "email": "crotanite@lumitestudios.com"
         }
-    ]
+    ],
+    "require": {
+        "mikebronner/laravel-model-caching": "^12.0"
+    }
 }

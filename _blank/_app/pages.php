@@ -9,6 +9,8 @@ return [
     'Home' => '',
 
     'Community' => '',
+    'Forums' => '',
+    'New Discussion' => '',
     'News' => '',
     'Changelog' => '',
     'Roadmap' => ''
