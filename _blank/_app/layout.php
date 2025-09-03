@@ -6,4 +6,6 @@ return [
     // guest topbar
     ':greeting, <b>:name</b>!' => '',
     'Guest' => '',
+    // auth hero - main
+    'Logout' => '',
 ];
