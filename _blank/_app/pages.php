@@ -15,9 +15,12 @@ return [
     // community
     'Community' => '',
     'Forums' => '',
+    'New Discussion' => '',
+    'Subscriptions' => '',
     'News' => '',
     'Roadmap' => '',
     'Changelog' => '',
+    'Online Users' => '',
     ':online Online Users' => '',
     // playground
     'Playground' => '',
@@ -25,4 +28,7 @@ return [
     'Help' => '',
     'Settings' => '',
     'Profile' => '',
+    // static
+    'Credits' => '',
+    'Expenses' => '',
 ];
