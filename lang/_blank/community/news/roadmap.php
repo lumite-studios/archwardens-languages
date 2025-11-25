@@ -1,4 +1,5 @@
 <?php
+
 return [
     'Uncompleted items are listed in no particular order.' => '',
     'Pre Alpha' => '',
